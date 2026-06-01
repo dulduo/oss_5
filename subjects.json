@@ -1,0 +1,32 @@
+[
+  {
+    "course_name": "프로그래밍기초",
+    "year": "2023",
+    "semester": "1",
+    "grade": "B"
+  },
+  {
+    "course_name": "그래픽디자인",
+    "year": "2023",
+    "semester": "1",
+    "grade": "B+"
+  },
+  {
+    "course_name": "드로잉",
+    "year": "2023",
+    "semester": "1",
+    "grade": "A"
+  },
+  {
+    "course_name": "로봇명사와의만남",
+    "year": "2023",
+    "semester": "1",
+    "grade": "P"
+  },
+  {
+    "course_name": "지능형로봇의이해",
+    "year": "2023",
+    "semester": "1",
+    "grade": "P"
+  }
+]
